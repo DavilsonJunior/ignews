@@ -1,0 +1,24 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "publication",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "title": "over",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Labore nulla sit ea ullamco consectetur fugiat esse. Incididunt eiusmod Lorem ea sint reprehenderit enim. Aliqua et amet sint est ea nostrud Lorem.",
+        "spans": []
+      }
+    ],
+    "slices": []
+  }
+}
