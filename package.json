@@ -11,9 +11,9 @@
   },
   "dependencies": {
     "@next-auth/fauna-adapter": "^1.0.4",
-    "@prismicio/client": "^6.6.4",
-    "@prismicio/helpers": "^2.3.3",
-    "@prismicio/react": "^2.4.4",
+    "@prismicio/client": "5.1.0",
+    "@prismicio/helpers": "^2.2.1",
+    "@prismicio/react": "^2.1.2",
     "@prismicio/slice-simulator-react": "^0.2.2",
     "@stripe/react-stripe-js": "^1.9.0",
     "@stripe/stripe-js": "^1.33.0",
